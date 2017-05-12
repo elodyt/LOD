@@ -1,0 +1,9 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+  printf("Welcome in LOD.New lifestyle for diner);
+  return 0;
+}
+ 
